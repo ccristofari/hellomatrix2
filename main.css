@@ -1,0 +1,83 @@
+
+#haut{
+
+	background-color: orange
+
+
+}
+
+body{
+
+	background: rgb(260,240,290);
+	font-size: 30px
+
+}
+
+h1{
+
+	color :blue;
+	font-family:  Open Sans ;
+	font-size: 3em;
+	text-align: center ;
+	list-style: bold;
+
+}
+
+h2{
+
+	color : orange;
+	font-family: Big Shoulders Display ;
+	font-size: 1,5em;
+}
+
+p{
+
+	font-family: Big Shoulders Display ;
+
+}
+
+ul{
+	color : blue;
+	list-style: bold;
+	font-family:  Open Sans ;
+
+}
+
+li{
+   	
+   	border: 1px solid #FFBF00;
+	display: inline ;
+	margin: 10px;
+    padding: 10px ;
+
+}
+
+
+#articles {
+
+    border: 1px solid #000000;
+    background: #FAFAFA;
+    margin: 10px;
+    padding: 10px ;
+    text-align: center;
+
+
+}
+
+#flux{
+    background-color :#FBF5EF;
+    width:100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+               
+ 
+}
+
+
+#footer { 
+
+	background-color: orange
+
+}
